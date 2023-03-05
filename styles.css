@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+}
+
+.input {
+    width: 500px;
+}
+
+.name-input {
+    width: 100%;
+}
+
+.avatar-input {
+    width: 100%;
+}
+
+.comment-input {
+    height: 150px;
+    width: 100%;
+}
+
+.button {
+    margin-top: 10px;
+}
+
+.result {
+    width: 500px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.avatar-result {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.name-result {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+
+}
+
+.comment-result {
+    border: 1px solid black;
+    width: 500px;
+    height: 40px;
+}
